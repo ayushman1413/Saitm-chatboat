@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
     hostel:
       "SAITM provides separate hostel facilities for boys and girls with furnished rooms, 24/7 security, Wi-Fi, dining hall, recreation area, and regular housekeeping services. The hostels are located within the campus for convenience and safety of students. Each room is equipped with basic amenities including beds, study tables, cupboards, and attached bathrooms.",
 
-    fees: "The fee structure varies by program:\n- B.Tech: ₹75,000-90,000 per semester\n- M.Tech: ₹65,000-80,000 per semester\n- BBA: ₹50,000-60,000 per semester\n- MBA: ₹70,000-85,000 per semester\n- BCA: ₹45,000-55,000 per semester\n- MCA: ₹60,000-75,000 per semester\nScholarship opportunities are available for meritorious students based on academic performance and entrance exam scores.",
+    fees: "The fee structure varies by program:\n- B.Tech: ₹75,000-90,000 per semester\n- M.Tech: ₹75,000-90,000 per semester\n- BBA: ₹50,000-60,000 per semester\n- MBA: ₹70,000-85,000 per semester\n- BCA: ₹55,000-75,000 per semester\n- MCA: ₹60,000-95,000 per semester\nScholarship opportunities are available for meritorious students based on academic performance and entrance exam scores.",
 
     admission:
       "Admission to SAITM is based on:\n- For B.Tech: JEE Main score or state-level entrance exams\n- For M.Tech: GATE score\n- For MBA/BBA: CAT/MAT/XAT or college-level entrance test\n- For BCA/MCA: College-level entrance test\nThe admission process includes application submission, entrance exam, counseling, and document verification. Applications can be submitted online through the official website or offline at the admission office.",
@@ -73,7 +73,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "SAITM has a strong alumni network with graduates working in prestigious organizations across the globe. The Alumni Association organizes regular meets and connects current students with alumni for mentorship and career guidance. Many alumni have achieved significant success in their careers and contribute to the institute's development through various initiatives.",
 
     contact:
-      "You can contact SAITM at:\nAddress: Plot No. 76, Knowledge Park-III, Greater Noida, Uttar Pradesh 201308\nPhone: +91-120-2323854, +91-120-2323855\nEmail: info@saitm.ac.in\nWebsite: https://saitm.ac.in\nAdmission Helpline: +91-8505937772",
+      "You can contact SAITM at:\nAddress: st andrews institute of technology and management , gurugram , 122506 mushedpur haily mandi road , Gurugram\nPhone: +91-8505937772\nEmail: admissions@saitm.org\nWebsite: https://saitm.ac.in/\nAdmission Helpline: 01141637097",
   };
 
 
